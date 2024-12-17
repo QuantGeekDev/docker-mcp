@@ -7,6 +7,8 @@
 
 A powerful Model Context Protocol (MCP) server for Docker operations, enabling seamless container and compose stack management through Claude AI.
 
+<a href="https://glama.ai/mcp/servers/8tdzip0z5a"><img width="380" height="200" src="https://glama.ai/mcp/servers/8tdzip0z5a/badge" alt="docker-mcp MCP server" /></a>
+
 ## ✨ Features
 
 - 🚀 Container creation and instantiation
